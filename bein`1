@@ -1,0 +1,5 @@
+<div class="flowplayer fixed-controls no-toggle no-time play-button obj" data-key="$812975748999788" data-live="true" data-share="false" data-ratio="0.5625" data-logo="">
+    <video autoplay="true">
+        <source type="application/x-mpegurl" src="http://89.105.216.22:8080/live/main_user/main_user/9593.ts">
+    </video>
+</div>
